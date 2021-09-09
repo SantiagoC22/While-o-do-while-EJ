@@ -8,7 +8,7 @@ int main(){
         a = b;
         b = f;
     }
-    b += 1;
+    b= 1;
     while(b < a){
         printf("%d", b);
         b++;
